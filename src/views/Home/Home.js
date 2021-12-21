@@ -57,7 +57,7 @@ export default function Home(props) {
 
                         }}>
                             <h2 style={{ color: "white" }} className={classes.title}>
-                                Appliction of Artificial Intelligence in Engineering Problem.
+                                Application of Artificial Intelligence in Engineering Problem.
                             </h2>
                         </div>
                         <div style={{
@@ -89,7 +89,7 @@ export default function Home(props) {
 
                         }}>
                             <h2 style={{ color: "white" }} className={classes.title}>
-                                Appliction of Artificial Intelligence in Engineering Problem.
+                                Application of Artificial Intelligence in Engineering Problem.
                             </h2>
                         </div>
                         <div style={{
@@ -121,7 +121,7 @@ export default function Home(props) {
 
                         }}>
                             <h2 style={{ color: "white" }} className={classes.title}>
-                                Appliction of Artificial Intelligence in Engineering Problem.
+                                Application of Artificial Intelligence in Engineering Problem.
                             </h2>
                         </div>
                         <div style={{
