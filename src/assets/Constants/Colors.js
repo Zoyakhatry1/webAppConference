@@ -1,0 +1,8 @@
+
+export const Colors = {
+    COLOR_HEADER:"#2C6C82",
+    COLOR_UNDERLINE:"#F754F4", 
+    COLOR_BACKGROUND_HEADER:"#FEFEFE", 
+    COLOR_BACKGROUND_PARA:"#C7BEBC", 
+
+};

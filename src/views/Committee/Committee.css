@@ -1,0 +1,13 @@
+.designation {
+    font-style: italic;
+}
+
+.title {
+    margin-top: 82px;
+    padding-bottom: 10px;
+}
+
+.names:hover {
+    transform: scale(1.1);
+    font-weight: 700;
+}

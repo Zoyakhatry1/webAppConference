@@ -1,0 +1,6 @@
+.div-sep {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    padding-bottom: 60px;
+}
