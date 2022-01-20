@@ -108,6 +108,9 @@ export default function HeaderLinks(props) {
 						<Link to='/submitnow' className={classes.dropdownLink}>
 							SUBMIT NOW
 						</Link>,
+						<Link to="/registration" className={classes.dropdownLink}>
+							Registration
+						</Link>,
 					]}
 				/>
 			</ListItem>
