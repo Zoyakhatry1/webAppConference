@@ -287,10 +287,10 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u>About Us</u>
+					<u>About IConIC</u>
 				</h2>
 			</div>
-			<div className='row'>
+			<div className='row' id='about'>
 				<p
 					style={{
 						textAlign: 'center',
@@ -897,7 +897,7 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u style={{ color: Colors.COLOR_HEADER }}>Reach Us</u>
+					<u style={{ color: Colors.COLOR_HEADER }}>Contact Us</u>
 				</h2>
 			</div>
 
