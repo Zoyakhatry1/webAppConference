@@ -1,0 +1,44 @@
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-style: hidden;
+    /*Remove all the outside
+    borders of the existing table*/
+}
+
+table td {
+    padding: 0.5rem;
+    border: 2px solid #939797;
+}
+
+table th {
+    padding: 0.5rem;
+    border: 2.5px solid rgb(91, 95, 91);
+}
+
+.hh5 {
+    font-size: 20px;
+}
+
+.hh3 {
+    font-size: 24px;
+}
+
+#table-container {
+    /* width: 70%; */
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
