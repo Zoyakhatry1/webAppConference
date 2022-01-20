@@ -32,7 +32,7 @@ export default () => (
                     paddingBottom: "30px",
                 }}
             >
-                Due to the outbreaks and continuing impacts of the COVID-19 recently, considering the safety and well-being of participants, AAIEP organizing committee decide to held the conference VIRTUALLY.  We are sorry for the inconveniences caused. Your supports and collaborations are greatly appreciated.
+                Due to the outbreaks and continuing impacts of the COVID-19 recently, considering the safety and well-being of participants, IConIC organizing committee decide to held the conference VIRTUALLY.  We are sorry for the inconveniences caused. Your supports and collaborations are greatly appreciated.
             </p>
         </div>
     </div>

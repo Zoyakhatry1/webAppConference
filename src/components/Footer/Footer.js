@@ -38,7 +38,7 @@ export default function Footer(props) {
                             marginBottom: '0px',
                             margin: "0px",
                         }}>
-                            Copyright © 2021 AAIEP. All Rights Reserved
+                            Copyright © 2022 IConIC. All Rights Reserved
                         </ListItem>
                     </List>
                 </div>
