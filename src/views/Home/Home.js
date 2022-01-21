@@ -287,7 +287,7 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u>About IConIC</u>
+					<u style={{ textDecoration: 'none' }}>About IConIC</u>
 				</h2>
 			</div>
 			<div className='row' id='about'>
@@ -341,7 +341,7 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u>Publication</u>
+					<u style={{ textDecoration: 'none' }}>Publication</u>
 				</h2>
 			</div>
 			<div className='row'>
@@ -382,7 +382,14 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u style={{ color: Colors.COLOR_HEADER }}>Associations</u>
+					<u
+						style={{
+							color: Colors.COLOR_HEADER,
+							textDecoration: 'none',
+						}}
+					>
+						Associations
+					</u>
 				</h2>
 			</div>
 			<div className='row'>
@@ -421,7 +428,14 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u style={{ color: Colors.COLOR_HEADER }}>Tracks</u>
+					<u
+						style={{
+							color: Colors.COLOR_HEADER,
+							textDecoration: 'none',
+						}}
+					>
+						Tracks
+					</u>
 				</h2>
 			</div>
 			<div className='row'>
@@ -566,7 +580,12 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u style={{ color: Colors.COLOR_HEADER }}>
+					<u
+						style={{
+							color: Colors.COLOR_HEADER,
+							textDecoration: 'none',
+						}}
+					>
 						Special Sessions
 					</u>
 				</h2>
@@ -659,7 +678,12 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u style={{ color: Colors.COLOR_HEADER }}>
+					<u
+						style={{
+							color: Colors.COLOR_HEADER,
+							textDecoration: 'none',
+						}}
+					>
 						Important Dates
 					</u>
 				</h2>
@@ -732,7 +756,12 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u style={{ color: Colors.COLOR_HEADER }}>
+					<u
+						style={{
+							color: Colors.COLOR_HEADER,
+							textDecoration: 'none',
+						}}
+					>
 						Registration Fees
 					</u>
 				</h2>
@@ -858,7 +887,14 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u style={{ color: Colors.COLOR_HEADER }}>Gallery</u>
+					<u
+						style={{
+							color: Colors.COLOR_HEADER,
+							textDecoration: 'none',
+						}}
+					>
+						Gallery
+					</u>
 				</h2>
 			</div>
 			<div>
@@ -897,7 +933,14 @@ export default function Home(props) {
 						paddingBottom: '25px',
 					}}
 				>
-					<u style={{ color: Colors.COLOR_HEADER }}>Contact Us</u>
+					<u
+						style={{
+							color: Colors.COLOR_HEADER,
+							textDecoration: 'none',
+						}}
+					>
+						Contact Us
+					</u>
 				</h2>
 			</div>
 
@@ -941,17 +984,19 @@ export default function Home(props) {
 									Email:
 								</p>
 								<p className='hh5' style={{ color: 'black' }}>
-									<a
-										id='mail'
-										style={{
-											textDecoration: 'underline',
-											color: 'black',
-										}}
-										href='mailto:info@nitsri.ac.in'
-									>
-										info@nitsri.ac.in
-									</a>
-									<br />
+									<h5>
+										For any qeuery, feel free to mail us,{' '}
+										<a
+											id='mail'
+											style={{
+												textDecoration: 'underline',
+												color: 'black',
+											}}
+											href='mailto:info@nitsri.ac.in'
+										>
+											info@nitsri.ac.in
+										</a>
+									</h5>
 								</p>
 							</div>
 							<br />
@@ -966,6 +1011,22 @@ export default function Home(props) {
 									Contact:
 								</p>
 								<p className='hh5'>
+									<h5>
+										For Registration related problems,
+										contact:{' '}
+									</h5>
+									Dr. Ranjeet K. Rout:{' '}
+									<span
+										id='contact'
+										style={{ textDecoration: 'underline' }}
+									>
+										{' '}
+										+91-8917595990
+									</span>
+									<h5>
+										For Submission related problems,
+										contact:{' '}
+									</h5>
 									Dr. Ranjeet K. Rout:{' '}
 									<span
 										id='contact'
