@@ -61,30 +61,34 @@ export default () => (
 						</p>
 					</div>
 					<div style={{ paddingLeft: '30px' }}>
-						<p style={{ fontSize: '15px', fontWeight: '900' }}>
-							Dr. Vijayan Asari graduated from University of
-							Kerala in 1978 in Electronics and Communications
-							Engineering He received M. Tech and Ph.D. in
-							Electrical Engineering in 1984 and 1994 respectively
-							from Indian Institute of Technology, Madras.
-							Currently Dr. Vijayan Asari is the University of
-							Dayton Ohio Research Scholars Endowed Chair in Wide
-							Area Surveillance and a professor with the
-							Department of Electrical and Computer Engineering.
-							He is also the director of the Centre of Excellence
-							for Computational Intelligence and Machine Vision
-							(Vision Lab). In 1996, he joined the National
-							University of Singapore as a Research Fellow and led
-							a team for the development of a vision-guided
-							microrobotic endoscopy system. In 1998, he joined
-							the School of Computer Engineering at Nanyang
-							Technological University (NTU), Singapore, and led
-							the computer vision and image processing research
-							activities in the Centre for High Performance
-							Embedded Systems at NTU. In August 2000, Dr. Asari
-							joined the Department of Electrical and Computer
-							Engineering at Old Dominion University (ODU) where
-							he was also the founding director of the
+						<p style={{ fontSize: '15px' }}>
+							<span
+								style={{ fontSize: '20px', fontWeight: '999' }}
+							>
+								Dr. Vijayan Asari
+							</span>{' '}
+							graduated from University of Kerala in 1978 in
+							Electronics and Communications Engineering He
+							received M. Tech and Ph.D. in Electrical Engineering
+							in 1984 and 1994 respectively from Indian Institute
+							of Technology, Madras. Currently Dr. Vijayan Asari
+							is the University of Dayton Ohio Research Scholars
+							Endowed Chair in Wide Area Surveillance and a
+							professor with the Department of Electrical and
+							Computer Engineering. He is also the director of the
+							Centre of Excellence for Computational Intelligence
+							and Machine Vision (Vision Lab). In 1996, he joined
+							the National University of Singapore as a Research
+							Fellow and led a team for the development of a
+							vision-guided microrobotic endoscopy system. In
+							1998, he joined the School of Computer Engineering
+							at Nanyang Technological University (NTU),
+							Singapore, and led the computer vision and image
+							processing research activities in the Centre for
+							High Performance Embedded Systems at NTU. In August
+							2000, Dr. Asari joined the Department of Electrical
+							and Computer Engineering at Old Dominion University
+							(ODU) where he was also the founding director of the
 							Computational Intelligence and Machine Vision
 							Laboratory. He has received many awards for his
 							teaching, research and leadership including the
@@ -141,10 +145,15 @@ export default () => (
 						</p>
 					</div>
 					<div style={{ paddingLeft: '30px' }}>
-						<p style={{ fontSize: '15px', fontWeight: '900' }}>
-							Michele Nappi received laurea degree (cum laude) in
-							Computer Science from the University of Salerno,
-							Italy, in 1991, the M.SC. degree in Information and
+						<p style={{ fontSize: '15px' }}>
+							<span
+								style={{ fontSize: '20px', fontWeight: '999' }}
+							>
+								Michele Nappi
+							</span>{' '}
+							received laurea degree (cum laude) in Computer
+							Science from the University of Salerno, Italy, in
+							1991, the M.SC. degree in Information and
 							Communication Technology from I.I.A.S.S. &quot;E.R.
 							Caianiello,&quot; in 1997, and the Ph.D. degree in
 							Applied Mathematics and Computer Science from the
@@ -202,31 +211,36 @@ export default () => (
 						</p>
 					</div>
 					<div style={{ paddingLeft: '30px' }}>
-						<p style={{ fontSize: '15px', fontWeight: '900' }}>
-							Prof. Muhammad Khurram Khan is a global thought
-							leader and influencer in Cybersecurity. He is the
-							founder and CEO of the ‘Global Foundation for Cyber
-							Studies and Research’ (http://www.gfcyber.org),
-							which is an independent and non- partisan
-							cybersecurity think-tank based in Washington D.C. He
-							has contributed cyber policy works for the G20 in
-							shaping a safer cyberspace for children, protection
-							of masses in the cyberspace, and empowering and
-							enabling women in cybersecurity profession. He is a
-							Professor at Center of Excellence in Information
-							Assurance (CoEIA), King Saud University, Kingdom of
-							Saudi Arabia. He is one of the founding members of
-							CoEIA and has served as the Manager R&amp;D from
-							March 2009 to March 2012. He developed and
-							successfully managed the research program of CoEIA,
-							which transformed the center as one of the best
-							centers of research excellence in Saudi Arabia as
-							well as in the region. Prof. Khurram is the
-							Editor-in-Chief of a well- esteemed international
-							journal &#39;Telecommunication Systems&#39;
-							published by Springer- Nature (since 1993) with an
-							impact factor of 2.314 (JCR 2021). He is also the
-							Editor- in-Chief of Cyber Insights Magazine
+						<p style={{ fontSize: '15px' }}>
+							<span
+								style={{ fontSize: '20px', fontWeight: '999' }}
+							>
+								Prof. Muhammad Khurram Khan
+							</span>{' '}
+							is a global thought leader and influencer in
+							Cybersecurity. He is the founder and CEO of the
+							‘Global Foundation for Cyber Studies and Research’
+							(http://www.gfcyber.org), which is an independent
+							and non- partisan cybersecurity think-tank based in
+							Washington D.C. He has contributed cyber policy
+							works for the G20 in shaping a safer cyberspace for
+							children, protection of masses in the cyberspace,
+							and empowering and enabling women in cybersecurity
+							profession. He is a Professor at Center of
+							Excellence in Information Assurance (CoEIA), King
+							Saud University, Kingdom of Saudi Arabia. He is one
+							of the founding members of CoEIA and has served as
+							the Manager R&amp;D from March 2009 to March 2012.
+							He developed and successfully managed the research
+							program of CoEIA, which transformed the center as
+							one of the best centers of research excellence in
+							Saudi Arabia as well as in the region. Prof. Khurram
+							is the Editor-in-Chief of a well- esteemed
+							international journal &#39;Telecommunication
+							Systems&#39; published by Springer- Nature (since
+							1993) with an impact factor of 2.314 (JCR 2021). He
+							is also the Editor- in-Chief of Cyber Insights
+							Magazine
 							(http://wwww.cyber-insights.org).Furthermore, he is
 							the full-time Editor/Associate Editor of several
 							international journals/magazines, including IEEE
@@ -300,25 +314,31 @@ export default () => (
 						</p>
 					</div>
 					<div style={{ paddingLeft: '30px' }}>
-						<p style={{ fontSize: '15px', fontWeight: '900' }}>
-							SK Hafizul Islam received the M.Sc. degree in
-							Applied Mathematics from Vidyasagar University,
-							Midnapore, India, in 2006, and the M.Tech. degree in
-							Computer Application and the Ph.D. degree in
-							Computer Science and Engineering in 2009 and 2013,
-							respectively, from Indian Institute of Technology
-							[IIT (ISM)] Dhanbad, Jharkhand, India. He is
-							currently an Assistant Professor in the Department
-							of Computer Science and Engineering, Indian
-							Institute of Information Technology Kalyani (IIIT
-							Kalyani), West Bengal, India. Before joining the
-							IIIT Kalyani, he was an Assistant Professor with the
-							Department of Computer Science and Information
-							Systems, Birla Institute of Technology and Science,
-							Pilani (BITS Pilani), Rajasthan, India. He has more
-							than eight years of teaching and eleven years of
-							research experience. He has authored or coauthored
-							125 research papers in journals and conference
+						<p style={{ fontSize: '15px' }}>
+							<span
+								style={{ fontSize: '20px', fontWeight: '999' }}
+							>
+								SK Hafizul Islam
+							</span>{' '}
+							received the M.Sc. degree in SK Hafizul
+							Islam received the M.Sc. degree in Applied
+							Mathematics from Vidyasagar University, Midnapore,
+							India, in 2006, and the M.Tech. degree in Computer
+							Application and the Ph.D. degree in Computer Science
+							and Engineering in 2009 and 2013, respectively,
+							from Indian Institute of Technology [IIT (ISM)]
+							Dhanbad, Jharkhand, India. He is currently an
+							Assistant Professor in the Department of Computer
+							Science and Engineering, Indian Institute of
+							Information Technology Kalyani (IIIT Kalyani), West
+							Bengal, India. Before joining the IIIT Kalyani, he
+							was an Assistant Professor with the Department of
+							Computer Science and Information Systems, Birla
+							Institute of Technology and Science, Pilani (BITS
+							Pilani), Rajasthan, India. He has more than eight
+							years of teaching and eleven years of research
+							experience. He has authored or coauthored 125
+							research papers in journals and conference
 							proceedings of international reputes. His research
 							interests include cryptography, information
 							security, WSNs, IoT, and cloud computing. He is
@@ -376,54 +396,59 @@ export default () => (
 						</p>
 					</div>
 					<div style={{ paddingLeft: '30px' }}>
-						<p style={{ fontSize: '15px', fontWeight: '900' }}>
-							Sheikh Iqbal Ahamed is Professor and Chair at the
-							Department of Computer Science and Director of the
-							Ubicomp Research Lab. He received his PhD in
-							Computer Science from the Arizona State University
-							in 2003.  Dr. Ahamed has a strong performance record
-							in research, with a career record of over $1 million
-							in external research funding. His current projects
-							cover a number of state-of-the-art advances in
-							medical computing and mobile computing. Dr.
-							Ahamed&#39;s research work focuses on building
-							customized and innovative patient communication
-							methods through technology, developing new and
-							innovative approaches for health monitoring, pain
-							management, mapping technologies, and activity
-							monitoring for smartphones. He has worked with
-							hospitals in the U.S. and internationally on a
-							number of projects, as well as with leading
-							healthcare companies in the healthcare industry. Dr.
-							Ahamed has worked with a number of engineers,
-							nurses, and physicians on 20 healthcare grants over
-							the past 13 years. Projects included work with
-							cellphones, sensors, tablets, web applications, and
-							HIPAA compliant cloud servers. His experience
-							extends to working with patient populations in
-							American Indian and Hispanic communities. Dr. Ahamed
-							is a Senior Member of the IEEE Computer Society, a
-							Member of the Association for Computing Machinery,
-							Member of the Internet Society, as well as Gamma
-							Beta Phi and Upsilon Pi Upsilon. He is the Steering
-							Committee Chair of IEEE COMPSAC, the Computer
-							Society&#39;s signature international computing
-							conference. He serves on a number of committees at
-							the department, university, and professional levels.
-							In recognition of his high-quality research work,
-							Dr. Ahamed and his students and co-authors have
-							received 10 best paper/poster awards at conferences
-							and workshops in the past 5 years. He was awarded
-							the Way-Klinger Young Scholars Award in 2008. He was
-							invited as research faculty to Microsoft in Seattle
-							in 2005, 2006, 2007, and 2008. He also was a 2006
-							recipient of a 3M Faculty Development Award. Dr.
-							Ahamed is Co-founder of Ubitrix, a technology
-							transfer company that develops mobile applications
-							for a number of uses, including healthcare
-							communication, speech therapy, pallative care, as
-							well as marketing, fitness tracking, embedded
-							systems and location-based services.
+						<p style={{ fontSize: '15px' }}>
+							<span
+								style={{ fontSize: '20px', fontWeight: '999' }}
+							>
+								Sheikh Iqbal Ahamed
+							</span>{' '}
+							is Professor and Chair at the Department of Computer
+							Science and Director of the Ubicomp Research Lab. He
+							received his PhD in Computer Science from the
+							Arizona State University in 2003.  Dr. Ahamed has a
+							strong performance record in research, with a career
+							record of over $1 million in external research
+							funding. His current projects cover a number of
+							state-of-the-art advances in medical computing and
+							mobile computing. Dr. Ahamed&#39;s research work
+							focuses on building customized and innovative
+							patient communication methods through technology,
+							developing new and innovative approaches for health
+							monitoring, pain management, mapping technologies,
+							and activity monitoring for smartphones. He has
+							worked with hospitals in the U.S. and
+							internationally on a number of projects, as well as
+							with leading healthcare companies in the healthcare
+							industry. Dr. Ahamed has worked with a number of
+							engineers, nurses, and physicians on 20 healthcare
+							grants over the past 13 years. Projects included
+							work with cellphones, sensors, tablets, web
+							applications, and HIPAA compliant cloud servers. His
+							experience extends to working with patient
+							populations in American Indian and Hispanic
+							communities. Dr. Ahamed is a Senior Member of the
+							IEEE Computer Society, a Member of the Association
+							for Computing Machinery, Member of the Internet
+							Society, as well as Gamma Beta Phi and Upsilon Pi
+							Upsilon. He is the Steering Committee Chair of IEEE
+							COMPSAC, the Computer Society&#39;s signature
+							international computing conference. He serves on a
+							number of committees at the department, university,
+							and professional levels. In recognition of his
+							high-quality research work, Dr. Ahamed and his
+							students and co-authors have received 10 best
+							paper/poster awards at conferences and workshops in
+							the past 5 years. He was awarded the Way-Klinger
+							Young Scholars Award in 2008. He was invited as
+							research faculty to Microsoft in Seattle in 2005,
+							2006, 2007, and 2008. He also was a 2006 recipient
+							of a 3M Faculty Development Award. Dr. Ahamed is
+							Co-founder of Ubitrix, a technology transfer company
+							that develops mobile applications for a number of
+							uses, including healthcare communication, speech
+							therapy, pallative care, as well as marketing,
+							fitness tracking, embedded systems and
+							location-based services.
 						</p>
 					</div>
 				</div>
@@ -459,22 +484,26 @@ export default () => (
 						</p>
 					</div>
 					<div style={{ paddingLeft: '30px' }}>
-						<p style={{ fontSize: '15px', fontWeight: '900' }}>
-							Amir H. Gandomi is a Professor of Data Science and
-							an ARC DECRA Fellow at the Faculty of Engineering
-							&amp; Information Technology, University of
-							Technology Sydney. Prior to joining UTS, Prof.
-							Gandomi was an Assistant Professor at Stevens
-							Institute of Technology, USA and a distinguished
-							research fellow in BEACON center, Michigan State
-							University, USA. Prof. Gandomi has published over
-							two hundred journal papers and seven books which
-							collectively have been cited 24,000+ times (H-index
-							= 72). He has been named as one of the most
-							influential scientific mind and Highly Cited
-							Researcher (top 1% publications and 0.1%
-							researchers) for four consecutive years, 2017 to
-							2021 by Web of Science. He also ranked 18th in GP
+						<p style={{ fontSize: '15px' }}>
+							<span
+								style={{ fontSize: '20px', fontWeight: '999' }}
+							>
+								Amir H. Gandomi
+							</span>{' '}
+							is a Professor of Data Science and an ARC DECRA
+							Fellow at the Faculty of Engineering &amp;
+							Information Technology, University of Technology
+							Sydney. Prior to joining UTS, Prof. Gandomi was an
+							Assistant Professor at Stevens Institute of
+							Technology, USA and a distinguished research fellow
+							in BEACON center, Michigan State University, USA.
+							Prof. Gandomi has published over two hundred journal
+							papers and seven books which collectively have been
+							cited 24,000+ times (H-index = 72). He has been
+							named as one of the most influential scientific mind
+							and Highly Cited Researcher (top 1% publications and
+							0.1% researchers) for four consecutive years, 2017
+							to 2021 by Web of Science. He also ranked 18th in GP
 							bibliography among more than 12,000 researchers. He
 							has served as associate editor, editor and guest
 							editor in several prestigious journals such as AE of
@@ -536,18 +565,22 @@ export default () => (
 						</p>
 					</div>
 					<div style={{ paddingLeft: '30px' }}>
-						<p style={{ fontSize: '15px', fontWeight: '900' }}>
-							Korhan Cengiz, PhD, SMIEEE was born in Edirne,
-							Turkey, in 1986. He received the BS degrees in
-							Electronics and Communication Engineering from
-							Kocaeli University, Turkey and Business
-							Administration from Anadolu University, Turkey in
-							2008 and 2009 respectively. He took his MS degree in
-							Electronics and Communication Engineering from Namik
-							Kemal University, Turkey in 2011, and the PhD degree
-							in Electronics Engineering from Kadir Has
-							University, Turkey in 2016. Since 2018, he has been
-							an Assistant Professor with the
+						<p style={{ fontSize: '15px' }}>
+							<span
+								style={{ fontSize: '20px', fontWeight: '999' }}
+							>
+								Korhan Cengiz
+							</span>
+							, PhD, SMIEEE was born in Edirne, Turkey, in 1986.
+							He received the BS degrees in Electronics and
+							Communication Engineering from Kocaeli University,
+							Turkey and Business Administration from Anadolu
+							University, Turkey in 2008 and 2009 respectively. He
+							took his MS degree in Electronics and Communication
+							Engineering from Namik Kemal University, Turkey in
+							2011, and the PhD degree in Electronics Engineering
+							from Kadir Has University, Turkey in 2016. Since
+							2018, he has been an Assistant Professor with the
 							Electrical-Electronics Engineering Department,
 							Trakya University, Turkey. He is the author of over
 							40 articles including IEEE Internet of Things
@@ -613,7 +646,7 @@ export default () => (
 						</p>
 					</div>
 					<div style={{ paddingLeft: '30px' }}>
-						<p style={{ fontSize: '15px', fontWeight: '900' }}>
+						<p style={{ fontSize: '15px' }}>
 							Korhan Cengiz, PhD, SMIEEE was born in Edirne,
 							Turkey, in 1986. He received the BS degrees in
 							Electronics and Communication Engineering from
