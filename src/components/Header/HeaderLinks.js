@@ -108,15 +108,12 @@ export default function HeaderLinks(props) {
 						<Link to='/submitnow' className={classes.dropdownLink}>
 							SUBMIT NOW
 						</Link>,
-						<Link to="/registration" className={classes.dropdownLink}>
-							Registration
-						</Link>,
 					]}
 				/>
 			</ListItem>
             <ListItem className={classes.listItem}>
 				<Link
-					to='/speaker'
+					to='/registration'
 					style={{ textDecoration: 'none', color: '#555555' }}
 				>
 					<Button
@@ -125,31 +122,54 @@ export default function HeaderLinks(props) {
 						className={classes.navLink}
 						style={{ fontSize: 16 }}
 					>
-						Registration
+						REGISTRATION
 					</Button>
 				</Link>
 			</ListItem>
-			<ListItem className={classes.listItem}>
-				<CustomDropdown
-					noLiPadding
-					buttonText='More'
-					buttonProps={{
-						className: classes.navLink,
-						color: 'transparent',
-					}}
-					//buttonIcon={Apps}
-					dropdownList={[
-						<Link to='/agenda' className={classes.dropdownLink}>
-							PROGRAM
-						</Link>,
-						<Link to='/venue' className={classes.dropdownLink}>
-							VENUE
-						</Link>,
-						<Link to='/visit' className={classes.dropdownLink}>
-							LOCAL VISIT
-						</Link>,
-					]}
-				/>
+            <ListItem className={classes.listItem}>
+				<Link
+					to='/agenda'
+					style={{ textDecoration: 'none', color: '#555555' }}
+				>
+					<Button
+						color='transparent'
+						target='_blank'
+						className={classes.navLink}
+						style={{ fontSize: 16 }}
+					>
+						PROGRAM
+					</Button>
+				</Link>
+			</ListItem>
+            <ListItem className={classes.listItem}>
+				<Link
+					to='/venue'
+					style={{ textDecoration: 'none', color: '#555555' }}
+				>
+					<Button
+						color='transparent'
+						target='_blank'
+						className={classes.navLink}
+						style={{ fontSize: 16 }}
+					>
+						VENUE
+					</Button>
+				</Link>
+			</ListItem>
+            <ListItem className={classes.listItem}>
+				<Link
+					to='/visit'
+					style={{ textDecoration: 'none', color: '#555555' }}
+				>
+					<Button
+						color='transparent'
+						target='_blank'
+						className={classes.navLink}
+						style={{ fontSize: 16 }}
+					>
+						VISIT US!
+					</Button>
+				</Link>
 			</ListItem>
 		</List>
 	);
