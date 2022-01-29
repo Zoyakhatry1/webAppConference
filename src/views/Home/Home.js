@@ -65,7 +65,7 @@ export default function Home(props) {
 								style={{ color: 'white' }}
 								className={classes.title}
 							>
-								Internaltional conference on Intelligent
+								Internaltional Conference on Intelligent
 								Computing.
 							</h2>
 						</div>
@@ -90,13 +90,14 @@ export default function Home(props) {
 							<p
 								style={{
 									color: 'white',
-									fontSize: '26px',
+									fontSize: '22px',
 									margin: '0px',
 								}}
 							>
 								<i>
-									The Ist International conference on Advances
-									of AI
+									The Ist International Conference on
+									Intelligent Computing by Dept. of Computer
+									Science and Engineering,
 								</i>
 							</p>
 							<p
@@ -107,9 +108,9 @@ export default function Home(props) {
 								}}
 							>
 								<i>
-									<strike>
-										NIT Srinagar, Jammu & kashmir
-									</strike>
+									{/*<strike>*/}
+									NIT Srinagar, Jammu & kashmir
+									{/*</strike>*/}
 								</i>
 							</p>
 							<p
@@ -119,7 +120,7 @@ export default function Home(props) {
 									margin: '0px',
 								}}
 							>
-								<i>Virtual Conference</i>
+								<i hidden>Virtual Conference</i>
 							</p>
 						</div>
 					</div>
@@ -136,7 +137,7 @@ export default function Home(props) {
 								style={{ color: 'white' }}
 								className={classes.title}
 							>
-								Internaltional conference on Intelligent
+								Internaltional Conference on Intelligent
 								Computing.
 							</h2>
 						</div>
@@ -161,13 +162,14 @@ export default function Home(props) {
 							<p
 								style={{
 									color: 'white',
-									fontSize: '26px',
+									fontSize: '22px',
 									margin: '0px',
 								}}
 							>
 								<i>
-									The Ist International conference on Advances
-									of AI
+									The Ist International Conference on
+									Intelligent Computing by Dept. of Computer
+									Science and Engineering,
 								</i>
 							</p>
 							<p
@@ -178,9 +180,9 @@ export default function Home(props) {
 								}}
 							>
 								<i>
-									<strike>
-										NIT Srinagar, Jammu & kashmir
-									</strike>
+									{/*<strike>*/}
+									NIT Srinagar, Jammu & kashmir
+									{/*</strike>*/}
 								</i>
 							</p>
 							<p
@@ -190,7 +192,7 @@ export default function Home(props) {
 									margin: '0px',
 								}}
 							>
-								<i>Virtual Conference</i>
+								<i hidden>Virtual Conference</i>
 							</p>
 						</div>
 					</div>
@@ -207,7 +209,7 @@ export default function Home(props) {
 								style={{ color: 'white' }}
 								className={classes.title}
 							>
-								Internaltional conference on Intelligent
+								Internaltional Conference on Intelligent
 								Computing.
 							</h2>
 						</div>
@@ -232,13 +234,14 @@ export default function Home(props) {
 							<p
 								style={{
 									color: 'white',
-									fontSize: '26px',
+									fontSize: '22px',
 									margin: '0px',
 								}}
 							>
 								<i>
-									The Ist International conference on Advances
-									of AI
+									The Ist International Conference on
+									Intelligent Computing by Dept. of Computer
+									Science and Engineering,
 								</i>
 							</p>
 							<p
@@ -249,9 +252,9 @@ export default function Home(props) {
 								}}
 							>
 								<i>
-									<strike>
-										NIT Srinagar, Jammu & kashmir
-									</strike>
+									{/*<strike>*/}
+									NIT Srinagar, Jammu & kashmir
+									{/*</strike>*/}
 								</i>
 							</p>
 							<p
@@ -261,7 +264,7 @@ export default function Home(props) {
 									margin: '0px',
 								}}
 							>
-								<i>Virtual Conference</i>
+								<i hidden>Virtual Conference</i>
 							</p>
 						</div>
 					</div>
@@ -290,10 +293,10 @@ export default function Home(props) {
 					<u style={{ textDecoration: 'none' }}>About IConIC</u>
 				</h2>
 			</div>
-			<div className='row' id='about'>
+			<div className='row about' id='about'>
 				<p
 					style={{
-						textAlign: 'center',
+						textAlign: 'justify',
 						margin: '15px 220px 5px 220px',
 						fontSize: '22px',
 						margin: '0px',
@@ -303,20 +306,31 @@ export default function Home(props) {
 						paddingBottom: '30px',
 					}}
 				>
-					1st Internaltional conference on Intelligent Computing is
-					being organized by the Department of Computer Science and
+					The Ist International Conference on Application of
+					Artificial Intelligence in Engineering Problems (AAIEP) is
+					being conducted by the Department of Computer Science and
 					Engineering, National Institute of Technology, Srinagar,
-					India from September 24-26, 2021. The conference is proposed
-					with a basic theme towards 'Artificial Intelligence in
-					Engineering Problems'. IConIC 2021 will provide researchers
-					to interact and collaborate under one umbrella for recent
-					developments, applications and research outcomes on Computer
-					Vision, Machine Intelligence, Human Computer Interaction and
-					Data Science. The conference has Plenary Talks and Expert
-					Panel discussions as well.
+					India (In Virtual Mode). AAIEP- 2022 aims to bring together
+					Academicians, Researchers, Industry Experts, Enthusiasts,
+					and Professionals to explore emerging trends and
+					innovations, as well as discuss research findings and future
+					directions in the area of next-generation innovations. This
+					technical conference intends to provide an opportunity for
+					academia and industry to share research and development
+					advancements in emerging fields of Artificial Intelligence.
+					It offers a common platform to an interdisciplinary group of
+					researchers through a strategically designed network of
+					premier institutions across India. The conference has also
+					Expert Panel discussions and Plenary Talks.
+					<br />
+					The goal of Application of Artificial Intelligence in
+					Engineering Problems (AAIEP) is to promote and bring
+					together the Indian and global researchers across the areas
+					of Artificial Intelligence, computer vision, computational
+					biology, natural language processing, and deep learning.
 					<br />
 					<br />
-					<a style={{ position: 'auto' }} href='#'>
+					<a style={{ position: 'auto' }} href='#' hidden>
 						View Brochure
 					</a>
 				</p>
