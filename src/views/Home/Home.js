@@ -471,31 +471,18 @@ export default function Home(props) {
 								<div className='flip-card-front'>
 									<div className='hh4 track-card'>
 										{' '}
-										Computer Vision{' '}
+										Artificial Intelligence and Machine Learning{' '}
 									</div>
 								</div>
 								<div className='hh6 flip-card-back'>
 									<div className='track-card'>
-										<div> - Image Processing </div>
-										<br />
-										<div> - Signal Processing </div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div className='flip-card'>
-							<div className='flip-card-inner'>
-								<div className='flip-card-front'>
-									<div className='hh4 track-card'>
-										{' '}
-										Machine Intelligence{' '}
-									</div>
-								</div>
-								<div className='hh6 flip-card-back'>
-									<div className='track-card'>
-										<div> - Computing </div>
-										<br />
+										<div> - Soft Computing  </div>
 										<div> - Deep Learning </div>
+										<div> - Image Processing </div>
+										<div> - Machine Intelligence </div>
+										<div> -Natural Language Processing Image Processing </div>
+										<div> - Fuzzy Logic and Systems </div>
+										<div> - Neural Network </div>
 									</div>
 								</div>
 							</div>
@@ -505,14 +492,16 @@ export default function Home(props) {
 								<div className='flip-card-front'>
 									<div className='hh4 track-card'>
 										{' '}
-										Human Computer Interaction{' '}
+										Computational Biology{' '}
 									</div>
 								</div>
 								<div className='hh6 flip-card-back'>
 									<div className='track-card'>
-										<div> - IOT </div>
-										<br />
-										<div> - Robotics </div>
+										<div> - Genetic Engineering </div>
+										<div> - Synthetic Biology </div>
+										<div> - Bioinformatics </div>
+										<div> - microRNA classification </div>
+										<div> - DNA, RNA, and Protein Sequencing </div>
 									</div>
 								</div>
 							</div>
@@ -522,18 +511,19 @@ export default function Home(props) {
 								<div className='flip-card-front'>
 									<div className='hh4 track-card'>
 										{' '}
-										Data Science{' '}
+										Image Processing and Computer Vision{' '}
 									</div>
 								</div>
 								<div className='hh6 flip-card-back'>
 									<div className='track-card'>
-										<div> - Analytical Techniques </div>
-										<br />
-										<div>
-											{' '}
-											- Mathematical and Statistical
-											Techniques{' '}
-										</div>
+										<div> - Pattern Recognition </div>
+										<div> - Image Processing </div>
+										<div> - Remote Sensing </div>
+										<div> - Object Detection </div>
+										<div> - Video Processing </div>
+										<div> - Facial Expression Recognition </div>
+										<div> - Image and Object Segmentation </div>
+										<div> - 3D Pose Estimation </div>
 									</div>
 								</div>
 							</div>
@@ -543,16 +533,38 @@ export default function Home(props) {
 								<div className='flip-card-front'>
 									<div className='hh4 track-card'>
 										{' '}
-										Cognitive Science{' '}
+										Computing and Networking{' '}
 									</div>
 								</div>
 								<div className='hh6 flip-card-back'>
 									<div className='track-card'>
-										<div> - Cognitive Psychology </div>
-										<br />
-										<div> - Linguistics </div>
-										<br />
-										<div> - Neural Science </div>
+										<div> - Internet of Things </div>
+										<div>- Block chain Technology</div>
+										<div>- Software Defined Networks</div>
+										<div>- Computer Networks, Security and Applications</div>
+										<div>- Distributed and Parallel Systems</div>
+										<div>- Cyber Security</div>
+										<div>- Ethical Hacking</div>
+										<div>- Ad-hoc and Sensor Networks</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div className='flip-card'>
+							<div className='flip-card-inner'>
+								<div className='flip-card-front'>
+									<div className='hh4 track-card'>
+										{' '}
+										AR/ VR Applications{' '}
+									</div>
+								</div>
+								<div className='hh6 flip-card-back'>
+									<div className='track-card'>
+										<div> - Robotics and Virtual Reality Technology </div>
+										<div> - Gamification </div>
+										<div> - Mixed Reality </div>
+										<div> - Human Computer Interaction </div>
+										<div> - Augmented Reality </div>
 									</div>
 								</div>
 							</div>
