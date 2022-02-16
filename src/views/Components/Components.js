@@ -38,7 +38,7 @@ export default function Components(props) {
 	return (
 		<div>
 			<Header
-				brand="IConIC"
+				brand="IConIC 2022"
 				rightLinks={<HeaderLinks />}
 				fixed
 				changeColorOnScroll={{
