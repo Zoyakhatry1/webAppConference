@@ -127,7 +127,7 @@ export default function HeaderLinks(props) {
 						className={classes.navLink}
 						style={{ fontSize: 16 }}
 					>
-						PROGRAM
+						GALLERY
 					</Button>
 				</Link>
 			</ListItem>
@@ -148,7 +148,7 @@ export default function HeaderLinks(props) {
 			</ListItem>
             <ListItem className={classes.listItem}>
 				<Link
-					to='/visit'
+					to='/contact'
 					style={{ textDecoration: 'none', color: '#555555' }}
 				>
 					<Button
@@ -157,7 +157,7 @@ export default function HeaderLinks(props) {
 						className={classes.navLink}
 						style={{ fontSize: 16 }}
 					>
-						VISIT US!
+						CONTACT US!
 					</Button>
 				</Link>
 			</ListItem>
