@@ -87,29 +87,19 @@ export default function HeaderLinks(props) {
 				</Link>
 			</ListItem>
 			<ListItem className={classes.listItem}>
-				<CustomDropdown
-					noLiPadding
-					buttonText='CALL FOR PAPERS'
-					buttonProps={{
-						className: classes.navLink,
-						color: 'transparent',
-					}}
-					buttonIcon={Apps}
-					dropdownList={[
-						<Link to='/scopes' className={classes.dropdownLink}>
-							SCOPES
-						</Link>,
-						<Link
-							to='/importantdates'
-							className={classes.dropdownLink}
-						>
-							IMPORTANT DATE
-						</Link>,
-						<Link to='/submitnow' className={classes.dropdownLink}>
-							SUBMIT NOW
-						</Link>,
-					]}
-				/>
+				<Link
+					to='/callforpapers'
+					style={{ textDecoration: 'none', color: '#555555' }}
+				>
+					<Button
+						color='transparent'
+						target='_blank'
+						className={classes.navLink}
+						style={{ fontSize: 16 }}
+					>
+						CALL FOR PAPERS
+					</Button>
+				</Link>
 			</ListItem>
             <ListItem className={classes.listItem}>
 				<Link
