@@ -12,12 +12,13 @@ export default () => (
                     textAlign: 'center',
                     fontWeight: '400',
                     marginBottom: '0px',
+                    paddingTop: '20px',
                     paddingRight: "100px",
                     paddingLeft: "100px",
                     marginTop:"20px",
                 }}
             >
-                <u>Registration</u>
+                <u style={{ textDecoration: 'none' }}>Registration</u>
             </h2>
         </div>
         <div style={{ backgroundColor: "#e5e5e5", margin: "0px" }}>
@@ -83,7 +84,7 @@ export default () => (
                     paddingBottom: "25px",
                 }}
             >
-                <u style={{ color: Colors.COLOR_HEADER }}>Registration Fees</u>
+                <u style={{ textDecoration: 'none' }}>Registration Fees</u>
             </h2>
         </div>
         <div style={{ backgroundColor: "#e5e5e5" }}>
@@ -162,7 +163,7 @@ export default () => (
                     paddingBottom: "25px",
                 }}
             >
-                <u style={{ color: Colors.COLOR_HEADER }}>Registration Link</u>
+                <u style={{ textDecoration: 'none' }}>Registration Link</u>
             </h2>
         </div>
         <div style={{ backgroundColor: "#e5e5e5", margin: "0px" }}>

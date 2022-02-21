@@ -14,7 +14,7 @@ export default () => (
 					fontWeight: '400',
 					marginBottom: '0px',
 					marginLeft: '95px',
-					paddingTop: '60px',
+					paddingTop: '20px',
 					paddingRight: '100px',
 					paddingLeft: '100px',
 				}}
