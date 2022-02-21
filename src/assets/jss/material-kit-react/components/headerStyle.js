@@ -30,6 +30,7 @@ const headerStyle = {
     justifyContent: "flex-start",
     position: "relative",
     zIndex: "unset",
+    backgroundColor:'rgba(6, 12, 34, 0.98)',
   },
   absolute: {
     position: "absolute",
@@ -57,7 +58,7 @@ const headerStyle = {
     fontSize: "20px",
     borderRadius: "3px",
     textTransform: "none",
-    color: "inherit",
+    color: "#ffd700",
     padding: "8px 16px",
     letterSpacing: "unset",
     "&:hover,&:focus": {
