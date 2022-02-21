@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useLayoutEffect} from "react";
 
 // nodejs library that concatenates classes
 import classNames from "classnames";
@@ -35,6 +35,9 @@ const useStyles = makeStyles(styles);
 export default function Components(props) {
 	const classes = useStyles();
 	const { ...rest } = props;
+    useLayoutEffect(() => {
+		window.scrollTo(0, 0);
+	});
 	return (
 		<div>
 			<Header
