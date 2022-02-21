@@ -273,16 +273,16 @@ export default function Home(props) {
 					</div>
 				</Carousel>
 			</div>
+			<div className='background-image' style={{color:Colors.COLOR_TEXT}}>
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
 				<h2
 					style={{
-						color: Colors.COLOR_HEADER,
+						color: Colors.COLOR_PARA_HEADER,
 						textAlign: 'center',
 						fontWeight: '400',
 						marginBottom: '0px',
@@ -341,7 +341,6 @@ export default function Home(props) {
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
@@ -382,7 +381,6 @@ export default function Home(props) {
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
@@ -428,7 +426,6 @@ export default function Home(props) {
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
@@ -622,7 +619,6 @@ export default function Home(props) {
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
@@ -720,7 +716,6 @@ export default function Home(props) {
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
@@ -798,7 +793,6 @@ export default function Home(props) {
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
@@ -817,7 +811,6 @@ export default function Home(props) {
 				>
 					<u
 						style={{
-							color: Colors.COLOR_HEADER,
 							textDecoration: 'none',
 						}}
 					>
@@ -929,7 +922,6 @@ export default function Home(props) {
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
@@ -975,13 +967,11 @@ export default function Home(props) {
 			<div
 				className='row'
 				style={{
-					backgroundColor: Colors.COLOR_BACKGROUND_HEADER,
 					margin: '0px',
 				}}
 			>
 				<h2
 					style={{
-						color: Colors.COLOR_HEADER,
 						textAlign: 'center',
 						fontWeight: '400',
 						marginBottom: '0px',
@@ -994,7 +984,6 @@ export default function Home(props) {
 				>
 					<u
 						style={{
-							color: Colors.COLOR_HEADER,
 							textDecoration: 'none',
 						}}
 					>
@@ -1006,7 +995,7 @@ export default function Home(props) {
 			<div>
 				<div
 					id='reach-us'
-					style={{ background: '#e6e9ed', width: '100%' }}
+					style={{  width: '100%' }}
 				>
 					<div
 						className='reach-us-content'
@@ -1036,20 +1025,18 @@ export default function Home(props) {
 								<p
 									className='hh3'
 									style={{
-										color: '#2C6C82',
 										fontWeight: '600px',
 									}}
 								>
 									Email:
 								</p>
-								<p className='hh5' style={{ color: 'black' }}>
+								<p className='hh5' style={{  }}>
 									<h5>
 										For any qeuery, feel free to mail us,{' '}
 										<a
 											id='mail'
 											style={{
 												textDecoration: 'underline',
-												color: 'black',
 											}}
 											href='mailto:info@nitsri.ac.in'
 										>
@@ -1120,6 +1107,7 @@ export default function Home(props) {
 						</div>
 					</div>
 				</div>
+			</div>
 			</div>
 		</div>
 	);
