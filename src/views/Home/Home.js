@@ -66,7 +66,7 @@ export default function Home(props) {
 								style={{ color: Colors.COLOR_PARA_HEADER }}
 								className={classes.title}
 							>
-								Internaltional Conference on Intelligent
+								International Conference on Intelligent
 								Computing
 							</h2>
 						</div>
@@ -139,7 +139,7 @@ export default function Home(props) {
 								style={{ color: Colors.COLOR_PARA_HEADER }}
 								className={classes.title}
 							>
-								Internaltional Conference on Intelligent
+								International Conference on Intelligent
 								Computing
 							</h2>
 						</div>
@@ -212,7 +212,7 @@ export default function Home(props) {
 								style={{ color: Colors.COLOR_PARA_HEADER }}
 								className={classes.title}
 							>
-								Internaltional Conference on Intelligent
+								International Conference on Intelligent
 								Computing
 							</h2>
 						</div>
@@ -464,7 +464,11 @@ export default function Home(props) {
 								<div className='flip-card-inner'>
 									<div
 										className='flip-card-front'
-										style={{ color: 'white' }}
+										style={{
+											color: 'white',
+											backgroundColor:
+												'rgba(6, 12, 34, 0.98)',
+										}}
 									>
 										<div className='hh4 track-card'>
 											{' '}
@@ -472,7 +476,13 @@ export default function Home(props) {
 											Learning{' '}
 										</div>
 									</div>
-									<div className='hh6 flip-card-back'>
+									<div
+										className='hh6 flip-card-back'
+										style={{
+											backgroundColor:
+												'rgb(6 22 80 / 98%)',
+										}}
+									>
 										<div className='track-card'>
 											<div> - Soft Computing </div>
 											<div> - Deep Learning </div>
@@ -496,14 +506,24 @@ export default function Home(props) {
 								<div className='flip-card-inner'>
 									<div
 										className='flip-card-front'
-										style={{ color: 'white' }}
+										style={{
+											color: 'white',
+											backgroundColor:
+												'rgba(6, 12, 34, 0.98)',
+										}}
 									>
 										<div className='hh4 track-card'>
 											{' '}
 											Computational Biology{' '}
 										</div>
 									</div>
-									<div className='hh6 flip-card-back'>
+									<div
+										className='hh6 flip-card-back'
+										style={{
+											backgroundColor:
+												'rgb(6 22 80 / 98%)',
+										}}
+									>
 										<div className='track-card'>
 											<div> - Genetic Engineering </div>
 											<div> - Synthetic Biology </div>
@@ -525,14 +545,24 @@ export default function Home(props) {
 								<div className='flip-card-inner'>
 									<div
 										className='flip-card-front'
-										style={{ color: 'white' }}
+										style={{
+											color: 'white',
+											backgroundColor:
+												'rgba(6, 12, 34, 0.98)',
+										}}
 									>
 										<div className='hh4 track-card'>
 											{' '}
 											Image Processing and Computer Vision{' '}
 										</div>
 									</div>
-									<div className='hh6 flip-card-back'>
+									<div
+										className='hh6 flip-card-back'
+										style={{
+											backgroundColor:
+												'rgb(6 22 80 / 98%)',
+										}}
+									>
 										<div className='track-card'>
 											<div> - Pattern Recognition </div>
 											<div> - Image Processing </div>
@@ -556,14 +586,24 @@ export default function Home(props) {
 								<div className='flip-card-inner'>
 									<div
 										className='flip-card-front'
-										style={{ color: 'white' }}
+										style={{
+											color: 'white',
+											backgroundColor:
+												'rgba(6, 12, 34, 0.98)',
+										}}
 									>
 										<div className='hh4 track-card'>
 											{' '}
 											Computing and Networking{' '}
 										</div>
 									</div>
-									<div className='hh6 flip-card-back'>
+									<div
+										className='hh6 flip-card-back'
+										style={{
+											backgroundColor:
+												'rgb(6 22 80 / 98%)',
+										}}
+									>
 										<div className='track-card'>
 											<div> - Internet of Things </div>
 											<div>- Block chain Technology</div>
@@ -591,14 +631,24 @@ export default function Home(props) {
 								<div className='flip-card-inner'>
 									<div
 										className='flip-card-front'
-										style={{ color: 'white' }}
+										style={{
+											color: 'white',
+											backgroundColor:
+												'rgba(6, 12, 34, 0.98)',
+										}}
 									>
 										<div className='hh4 track-card'>
 											{' '}
 											AR/ VR Applications{' '}
 										</div>
 									</div>
-									<div className='hh6 flip-card-back'>
+									<div
+										className='hh6 flip-card-back'
+										style={{
+											backgroundColor:
+												'rgb(6 22 80 / 98%)',
+										}}
+									>
 										<div className='track-card'>
 											<div>
 												{' '}
@@ -629,7 +679,12 @@ export default function Home(props) {
 						<p style={{ fontSize: '20px', margin: '0px 0px 10px' }}>
 							{' '}
 							- For more details about tracks,
-							<a href='#'>Click Here!</a>
+							<a
+								href='#'
+								style={{ color: Colors.COLOR_PARA_HEADER }}
+							>
+								Click Here!
+							</a>
 						</p>
 					</div>
 				</div>
@@ -680,13 +735,23 @@ export default function Home(props) {
 								<div className='flip-card-inner'>
 									<div
 										className='flip-card-front'
-										style={{ color: 'white' }}
+										style={{
+											color: 'white',
+											backgroundColor:
+												'rgba(6, 12, 34, 0.98)',
+										}}
 									>
 										<div className='hh4 track-card'>
 											Intelligent Information Processing{' '}
 										</div>
 									</div>
-									<div className='hh6 flip-card-back'>
+									<div
+										className='hh6 flip-card-back'
+										style={{
+											backgroundColor:
+												'rgb(6 22 80 / 98%)',
+										}}
+									>
 										<div className='track-card'>
 											<div> - Agent-Based Systems</div>
 											<br />
@@ -701,14 +766,24 @@ export default function Home(props) {
 								<div className='flip-card-inner'>
 									<div
 										className='flip-card-front'
-										style={{ color: 'white' }}
+										style={{
+											color: 'white',
+											backgroundColor:
+												'rgba(6, 12, 34, 0.98)',
+										}}
 									>
 										<div className='hh4 track-card'>
 											Intelligent Modelling Using Deep
 											Learning{' '}
 										</div>
 									</div>
-									<div className='hh6 flip-card-back'>
+									<div
+										className='hh6 flip-card-back'
+										style={{
+											backgroundColor:
+												'rgb(6 22 80 / 98%)',
+										}}
+									>
 										<div className='track-card'>
 											<div> - Document Analysis</div>
 											<br />
@@ -732,7 +807,12 @@ export default function Home(props) {
 						<p style={{ fontSize: '20px', margin: '0px 0px 10px' }}>
 							{' '}
 							- For more details about sessions,
-							<a href='#'>CLick Here!</a>
+							<a
+								href='#'
+								style={{ color: Colors.COLOR_PARA_HEADER }}
+							>
+								Click Here!
+							</a>
 						</p>
 					</div>
 				</div>

@@ -56,7 +56,7 @@
     align-items: center;
     margin-top: 50%;
     transform: translate(0, -50%);
-    background-color: #2C6C82;
+    background-color: rgba(6, 12, 34, 0.98);
     color: black;
 }
 
