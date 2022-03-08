@@ -1,10 +1,11 @@
 import Home from 'views/Home/Home';
 import Committee from 'views/Committee/Committee';
 import Speaker from 'views/Speaker/Speaker';
-import Venue from 'views/More/Venue/Venue';
+import Venue from 'views/Venue/Venue';
 import Registration from 'views/Registration/Registration';
 import CallForPapers from 'views/CallForPapers/CallForPapers';
 import Contact from 'views/Contact/Contact';
+import About from 'views/About/About';
 
 var routes = [
 	{
@@ -41,6 +42,11 @@ var routes = [
 		path: '/contact',
 		name: 'Contact',
 		component: Contact,
+	},
+	{
+		path: '/about',
+		name: 'About',
+		component: About,
 	},
 ];
 
