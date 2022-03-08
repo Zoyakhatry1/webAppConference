@@ -43,14 +43,14 @@ export default function HeaderLinks(props) {
 			</ListItem>
 			<ListItem className={classes.listItem}>
 				<Link
-					to='/home'
+					to='/about'
 					style={{ textDecoration: 'none', color: '#555555' }}
 				>
 					<Button
 						color='transparent'
 						target='_blank'
 						className={classes.navLink}
-						style={{ fontSize: 16 }}
+						style={{ fontSize: 16, cursor: 'pointer' }}
 					>
 						ABOUT
 					</Button>
@@ -101,7 +101,7 @@ export default function HeaderLinks(props) {
 					</Button>
 				</Link>
 			</ListItem>
-            <ListItem className={classes.listItem}>
+			<ListItem className={classes.listItem}>
 				<Link
 					to='/registration'
 					style={{ textDecoration: 'none', color: '#555555' }}
@@ -116,7 +116,7 @@ export default function HeaderLinks(props) {
 					</Button>
 				</Link>
 			</ListItem>
-            <ListItem className={classes.listItem}>
+			<ListItem className={classes.listItem}>
 				<Link
 					to='/agenda'
 					style={{ textDecoration: 'none', color: '#555555' }}
@@ -131,7 +131,7 @@ export default function HeaderLinks(props) {
 					</Button>
 				</Link>
 			</ListItem>
-            <ListItem className={classes.listItem}>
+			<ListItem className={classes.listItem}>
 				<Link
 					to='/venue'
 					style={{ textDecoration: 'none', color: '#555555' }}
@@ -146,7 +146,7 @@ export default function HeaderLinks(props) {
 					</Button>
 				</Link>
 			</ListItem>
-            <ListItem className={classes.listItem}>
+			<ListItem className={classes.listItem}>
 				<Link
 					to='/contact'
 					style={{ textDecoration: 'none', color: '#555555' }}
