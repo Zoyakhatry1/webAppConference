@@ -64,7 +64,7 @@ export default function Header(props) {
 	});
 	const brandComponent = (
 		<Link style={{ textDecoration: 'none', color: '#555555' }} to='/home'>
-			<Button className={classes.title} style={{ fontSize: '36px' }}>
+			<Button className={classes.title} style={{ fontSize: '36px', fontStyle: 'italic' }}>
 				{brand}
 			</Button>
 		</Link>
